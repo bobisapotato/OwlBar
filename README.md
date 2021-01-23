@@ -1,3 +1,5 @@
+# NO LONGER MAINTAINED. 
+
 <p align="center">
   <img src="assets/logo.png" alt="OWL Bar" height="250">
   <h3 align="center">Overwatch League Bar</h3>
